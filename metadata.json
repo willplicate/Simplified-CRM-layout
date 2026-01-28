@@ -1,0 +1,5 @@
+{
+  "name": "Personal CRM",
+  "description": "A personal CRM to manage contacts, tasks, plans, and more, with a clean, spreadsheet-like interface for easy organization and tracking.",
+  "requestFramePermissions": []
+}
